@@ -40,3 +40,5 @@ gem 'spring',        group: :development
 
 gem 'doorkeeper'
 
+gem 'devise'
+gem 'pg'
