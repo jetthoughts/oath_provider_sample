@@ -42,3 +42,5 @@ gem 'doorkeeper'
 
 gem 'devise'
 gem 'pg'
+gem 'ember-rails'
+gem 'ember-source', '1.5.0' # or the version you need
